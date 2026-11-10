@@ -1,7 +1,7 @@
 /**
  * @file Manages whole Module
  * @description This is the main file in Original state from the main Branch
- * @author Rowina Sanela <rsanela@example.com>
+ * @author yastefan, polofiziert
  */
 
 var sequenceContainer = {};
