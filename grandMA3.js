@@ -1,4 +1,9 @@
-// Aktuell
+/**
+ * @file Manages whole Module
+ * @description This is the main file in Original state from the main Branch
+ * @author Rowina Sanela <rsanela@example.com>
+ */
+
 var sequenceContainer = {};
 var executorContainer = {};
 var sync_queue = [[], [], [], []];
